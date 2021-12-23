@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak2837
 - 👀 I’m interested in entreprenurship 
-- 🌱 I’m currently working on my startip 
+- 🌱 I’m currently working on my startup 
 - 📫 How to reach me ...medgloss@gmail.com
 
 <!---
