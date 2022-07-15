@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepak2837
 - 👀 I’m interested in entreprenurship 
-- 🌱 I’m currently working on my startup 
-- 📫 How to reach me ...medgloss@gmail.com
+- 🌱 I had been working on my startup, but I've recently taken a break.
+- 📫 How to reach me ...peenu000@gmail.com
 
 <!---
 deepak2837/deepak2837 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
