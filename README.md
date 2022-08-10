@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak2837
 - 👀 I’m interested in entreprenurship 
-- 🌱 I had been working on my startup, but I've recently taken a break.
+
 - ✨ i have made some projects and deployed on heroku some of them are
 - ✨ (a full fledged blogging website(Medgloss),ecom-backend-api's,online cake-shop and scholarship-website )
 - 📫 How to reach me ...peenu000@gmail.com
