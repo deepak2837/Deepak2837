@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepak2837
--  
+-  i am a freelancer
 - ✨ i have made some projects and deployed on heroku some of them are
 - ✨ (a full fledged blogging website(Medgloss),ecom-backend-api's,online cake-shop ,scholarship-website, a crm application and a portfolio website  )
 - 📫 How to reach me ...peenu000@gmail.com
